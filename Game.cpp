@@ -6,7 +6,7 @@
 #include "Player.h"
 #include "InvalidPlayersContainerException.h"
 #include "InvalidBetException.h"
-a
+
 using namespace std;
 
 // Prototypes
